@@ -92,12 +92,12 @@
         <div class="col-md-6">
             <img src="img/img/founder1.png" class="rounded-circle" alt="Founder 1">
             <h5 class="mt-3">Mr. Shubham Goswami</h5>
-            <p>Mr. Shubham Goswami is a social activist with a passion for education and healthcare reform. He has over 15 years of experience working in non-profits.</p>
+           
         </div>
         <div class="col-md-6">
             <img src="img/img/founder2.png" class="rounded-circle" alt="Founder 2">
             <h5 class="mt-3">Mr. Vansh Maheshwari</h5>
-            <p>Mr. Vansh Maheshwari is an environmentalist and co-founder of the trust. He focuses on sustainable development and women’s empowerment initiatives.</p>
+            <p></p>
         </div>
     </div>
 </div>
@@ -111,12 +111,12 @@
         <div class="col-md-6">
             <img src="img/img/trustee1.png" class="rounded-circle" alt="Trustee 1">
             <h5 class="mt-3">Mr. Anubahv Aggarwal</h5>
-            <p>Mr. Anubahv Aggarwa is a trustee focused on women empowerment initiatives and works to provide resources to rural communities.</p>
+            <p></p>
         </div>
         <div class="col-md-6">
             <img src="img/img/trustee2.png" class="rounded-circle" alt="Trustee 2">
             <h5 class="mt-3">Mr. Anubahv Aggarwal</h5>
-            <p>Mr. Anubahv Aggarwal manages financial and operational aspects of the trust, ensuring transparency and growth.</p>
+            <p></p>
         </div>
     </div>
 </div>
@@ -130,12 +130,12 @@
         <div class="col-md-6">
             <img src="img/img/member1.png" class="rounded-circle" alt="Key Member 1">
             <h5 class="mt-3">Mr. Mohit Chawla</h5>
-            <p>Mr. Mohit Chawla heads the education and vocational training initiatives, helping hundreds of children and adults acquire new skills.</p>
+            <p></p>
         </div>
         <div class="col-md-6">
             <img src="img/img/member2.png" class="rounded-circle" alt="Key Member 2">
             <h5 class="mt-3">Mr. Garv Chawla</h5>
-            <p>Mr. Garv Chawla is responsible for healthcare campaigns, organizing medical camps in remote areas and advocating for public health.</p>
+            <p></p>
         </div>
     </div>
 </div>

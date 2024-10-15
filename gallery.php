@@ -8,16 +8,16 @@ $img = glob($imageFolder . "*.{jpg,png,gif,jpeg}", GLOB_BRACE);
 
 // Array of random descriptions
 $descriptions = [
-    "A beautiful sunrise over the mountains.",
-    "A serene lake surrounded by trees.",
-    "An amazing cityscape at night.",
-    "Colorful flowers in full bloom.",
-    "A breathtaking view of the ocean.",
-    "A cozy cabin in the woods.",
-    "A vibrant sunset on the beach.",
-    "A snowy landscape in winter.",
-    "A bustling market filled with life.",
-    "An enchanting forest path."
+    "",
+    ".",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
 ];
 ?>
 

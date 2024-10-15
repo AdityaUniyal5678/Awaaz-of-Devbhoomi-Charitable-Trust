@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 require_once "./pdo.php";
 ?>
@@ -7,9 +7,9 @@ require_once "./pdo.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awaaz of Devbhoomi Charitable Trust</title>
-    
-    <?php include("bootstrap.php"); ?>
+    <title> Awaaz of Devbhoomi Charitable Trust</title>
+
+    <?php include "bootstrap.php";?>
     <link rel="stylesheet" href="bootstrap/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <style>
@@ -46,7 +46,7 @@ if (isset($_SESSION['volunteer_id'])) {
 } else if (isset($_SESSION['admin_id'])) {
     require_once "./adminIndex2.php";
 } else if (isset($_SESSION['donor_id'])) {
-    require_once "donorIndex.php";  
+    require_once "donorIndex.php";
 } else {
     require_once "./navbar.php";
     require_once "./carousel.php";
@@ -59,34 +59,34 @@ if (isset($_SESSION['volunteer_id'])) {
     <div class="row">
 
         <?php
-        // Folder where the images are stored
-        $imageFolder = 'img/';
-        // Fetch all image files from the folder
-        $img = glob($imageFolder . "*.{jpg,png,gif,jpeg}", GLOB_BRACE);
-        // Array of random descriptions
-        $descriptions = [
-            "A beautiful sunrise over the mountains.",
-            "A serene lake surrounded by trees.",
-            "An amazing cityscape at night.",
-            "Colorful flowers in full bloom.",
-            "A breathtaking view of the ocean.",
-            "A cozy cabin in the woods.",
-            "A vibrant sunset on the beach.",
-            "A snowy landscape in winter.",
-            "A bustling market filled with life.",
-            "An enchanting forest path."
-        ];
+// Folder where the images are stored
+$imageFolder = 'img/';
+// Fetch all image files from the folder
+$img = glob($imageFolder . "*.{jpg,png,gif,jpeg}", GLOB_BRACE);
+// Array of random descriptions
+$descriptions = [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+];
 
-        // Limit the number of images displayed to 6
-        $displayLimit = 6;
-        $imageCount = count($img);
+// Limit the number of images displayed to 6
+$displayLimit = 6;
+$imageCount = count($img);
 
-        // Loop through images and display them as Bootstrap cards
-        for ($i = 0; $i < min($displayLimit, $imageCount); $i++) {
-            $image = $img[$i];
-            // Select a random description
-            $randomDescription = $descriptions[array_rand($descriptions)];
-            ?>
+// Loop through images and display them as Bootstrap cards
+for ($i = 0; $i < min($displayLimit, $imageCount); $i++) {
+    $image = $img[$i];
+    // Select a random description
+    $randomDescription = $descriptions[array_rand($descriptions)];
+    ?>
             <div class="col-md-4 mb-4">
                 <div class="card">
                     <img src="<?php echo $image; ?>" class="card-img-top" alt="Image" style="height: 200px; object-fit: cover;">
@@ -96,16 +96,16 @@ if (isset($_SESSION['volunteer_id'])) {
                 </div>
             </div>
             <?php
-        }
-        ?>
+}
+?>
     </div>
 
     <!-- Show "View All Gallery" button if there are more than 6 images -->
-    <?php if ($imageCount > 6) : ?>
+    <?php if ($imageCount > 6): ?>
         <div class="text-center mt-4">
             <a href="gallery.php" class="btn btn-success">View All Gallery</a>
         </div>
-    <?php endif; ?>
+    <?php endif;?>
 </div>
 
 <!-- Contact Section -->
@@ -158,7 +158,7 @@ if (isset($_SESSION['volunteer_id'])) {
 </div>
 
 <!-- Footer -->
-<?php include('footer.php'); ?>
+<?php include 'footer.php';?>
 
 <!-- Bootstrap JS and dependencies -->
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
