@@ -17,8 +17,7 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           <a class="dropdown-item" href="login/adminLogin.php">Admin</a>
-          <a class="dropdown-item" href="login/donorLogin.php">Donor</a>
-          <a class="dropdown-item" href="login/volunteerLogin.php">Volunteer</a>
+       
         </div>
       </li>
       <li class="nav-item active">
