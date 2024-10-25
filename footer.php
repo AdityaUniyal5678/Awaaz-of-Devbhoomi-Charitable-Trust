@@ -23,15 +23,15 @@
             <div class="col-md-4">
                 <h5>Contact Us</h5>
                 <ul class="list-unstyled">
-                    <li><i class="fas fa-map-marker-alt"></i>  Ishwar Vihar Tapowan , Dehradun, Uttarakhand </li>
-                    <li><i class="fas fa-envelope"></i>  awaazofdevbhoomi@gmail.com</li>
-                    <li><i class="fas fa-phone"></i> +91 9368080321</li>
+                    <li><i class="fas fa-map-marker-alt"></i> 123 Devbhoomi Street, Uttarakhand, India</li>
+                    <li><i class="fas fa-envelope"></i> info@devbhoomitrust.org</li>
+                    <li><i class="fas fa-phone"></i> +91 9876543210</li>
                 </ul>
                 <!-- Social Media Links -->
                 <div class="mt-3">
                     <a href="#" class="text-white mr-3"><i class="fab fa-facebook-f"></i></a>
                     <a href="#" class="text-white mr-3"><i class="fab fa-twitter"></i></a>
-                    <a href="#" class="text-white mr-3"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.instagram.com/awaazthedevbhoomi_mun/profilecard/?igsh=MXczZDR0NXJsYnV5cQ==" class="text-white mr-3"><i class="fab fa-instagram"></i></a>
                     <a href="#" class="text-white"><i class="fab fa-linkedin"></i></a>
                 </div>
             </div>
