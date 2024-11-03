@@ -35,6 +35,9 @@
       <li class="nav-item active">
         <a class="nav-link" href="contact.php"><h4>Contact Us</h4></a>
       </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="mun.php"><h4>MUN</h4></a>
+      </li>
   </div>
 </nav>
 
