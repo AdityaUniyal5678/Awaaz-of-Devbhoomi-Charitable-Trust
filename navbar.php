@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-lg p-3 mb-5">
+<nav class="navbar navbar-expand-lg navbar-dark shadow-lg p-3 mb-5">
   <a class="navbar-brand" href="index.php"> <h2>Awaaz of Devbhoomi  
   </h2>
   </a>
@@ -47,12 +47,17 @@
     color: rgb(161, 201, 201);
     padding: 10px;
     border-radius: 5px;
-    transition: background-color 0.3s;
+    transition: 0.3s;
     font-weight: bold;
     font-size: 1.25rem;
   }
 
   .navbar-nav {
     font-size: 1.0rem;
+    
+  }
+
+  .navbar{
+    background: linear-gradient(90deg, #3A1C71 0% , #FDBB2D 100%);
   }
 </style>
