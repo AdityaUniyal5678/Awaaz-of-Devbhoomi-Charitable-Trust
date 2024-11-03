@@ -37,7 +37,7 @@ if (isset($_POST['username'])) {
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background-color: rgb(161, 201, 201); /* Light background color */
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%); /* Light background color */
         }
         .form-signin {
             width: 100%;
@@ -49,7 +49,7 @@ if (isset($_POST['username'])) {
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
         }
         .btn-custom {
-            background-color: rgb(161, 201, 201); 
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%); 
             color: white; 
             border-radius: 5px; 
             font-size: 16px;

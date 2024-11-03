@@ -9,7 +9,7 @@ $img = glob($imageFolder . "*.{jpg,png,gif,jpeg}", GLOB_BRACE);
 // Array of random descriptions
 $descriptions = [
     "",
-    ".",
+    "",
     "",
     "",
     "",
@@ -33,7 +33,7 @@ $descriptions = [
     <link rel="stylesheet" href="css/style.css">
     <style>
         body {
-            background-color: rgb(161, 201, 201); /* Light grey background */
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%); /* Light grey background */
         }
     </style>
 </head>

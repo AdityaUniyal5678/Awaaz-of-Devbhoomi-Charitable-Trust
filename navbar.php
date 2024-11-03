@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow-lg p-3 mb-5">
-  <a class="navbar-brand" href="index.php"> <h2>Awaaz of Devbhoomi Charitable Trust
+  <a class="navbar-brand" href="index.php"> <h2>Awaaz of Devbhoomi  
   </h2>
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav"
@@ -21,19 +21,19 @@
         </div>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="index.php">Home</a>
+        <a class="nav-link" href="index.php"><h4>Home</h4></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="donation_form.html">Donation</a>
+        <a class="nav-link" href="donation_form.html"><h4>Donation</h4></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="gallery.php">Gallery</a>
+        <a class="nav-link" href="gallery.php"><h4>Gallery</h4></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="about.php">About</a>
+        <a class="nav-link" href="about.php"><h4>About</h4></a>
       </li>
       <li class="nav-item active">
-        <a class="nav-link" href="contact.php">Contact Us</a>
+        <a class="nav-link" href="contact.php"><h4>Contact Us</h4></a>
       </li>
   </div>
 </nav>

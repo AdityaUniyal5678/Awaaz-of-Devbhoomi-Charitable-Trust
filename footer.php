@@ -5,7 +5,7 @@
             <!-- About Section -->
             <div class="col-md-4">
                 <h5>About Us</h5>
-                <p>Awaaz of Devbhoomi Charitable Trust is dedicated to providing education, healthcare, and empowerment to the underprivileged in Devbhoomi Uttarakhand.</p>
+                <p>Awaaz of Devbhoomi Charitable Trust(Reg.) is dedicated to providing education, healthcare, and empowerment to the underprivileged in Devbhoomi Uttarakhand.</p>
             </div>
 
             <!-- Quick Links -->
@@ -23,9 +23,9 @@
             <div class="col-md-4">
                 <h5>Contact Us</h5>
                 <ul class="list-unstyled">
-                    <li><i class="fas fa-map-marker-alt"></i> 123 Devbhoomi Street, Uttarakhand, India</li>
-                    <li><i class="fas fa-envelope"></i> info@devbhoomitrust.org</li>
-                    <li><i class="fas fa-phone"></i> +91 9876543210</li>
+                    <li><i class="fas fa-map-marker-alt"></i> Tapowan , Dehradun , Uttarakhand</li>
+                    <li><i class="fas fa-envelope"></i>  awaazofdevbhoomi@gmail.com </li>
+                    <li><i class="fas fa-phone"></i>  +91-9368080321 , +91-8630794658</li>
                 </ul>
                 <!-- Social Media Links -->
                 <div class="mt-3">
@@ -40,7 +40,7 @@
 
     <!-- Footer Bottom -->
     <div class="text-center py-3" style="background-color: #1b1e21;">
-        <p class="mb-0">&copy; 2025 Awaaz of Devbhoomi Charitable Trust. All rights reserved.</p>
+        <p class="mb-0">&copy; 2025 Awaaz of Devbhoomi Charitable Trust(Reg.). All rights reserved.</p>
     </div>
 </footer>
 

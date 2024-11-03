@@ -30,7 +30,7 @@ $_SESSION['razorpay_order_id'] = $razorpayOrderId;
 $data = [
     "key"               => $keyId,
     "amount"            => $donationAmount,
-    "name"              => "Awaaz of Devbhoomi Charitable Trust",
+    "name"              => "Awaaz of Devbhoomi Charitable Trust(Reg.)",
     "description"       => "Donation",
     "image"             => "images/index/logo.png", 
     "prefill"           => [
@@ -55,7 +55,7 @@ $jsonData = json_encode($data);
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: rgb(161, 201, 201); 
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%); 
             margin: 0;
             padding: 20px;
             display: flex;

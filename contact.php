@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact Us - Awaaz of Devbhoomi Charitable Trust</title>
+    <title>Contact Us - Awaaz of Devbhoomi Charitable Trust(Reg.)</title>
 
     <!-- Include Bootstrap CSS -->
     <?php include("bootstrap.php"); ?>
@@ -15,7 +15,7 @@
     <!-- Custom CSS -->
     <style>
         body {
-            background-color: rgb(161, 201, 201);;
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%);;
         }
 
         .contact-info i {
@@ -52,14 +52,14 @@
                     <h4>Get in Touch</h4>
                     <p>
                         <i class="fas fa-phone"></i>
-                        <a href="tel:+919368080321" style="text-decoration: none; color: inherit;">+91-9368080321</a>
+                        <a href="tel:+919368080321" style="text-decoration: none; color: inherit;">+91-9368080321 , +91-8630794658</a>
                     </p>
                     <p>
                         <i class="fas fa-envelope"></i>
                         <a href="mailto:awaazofdevbhoomi@gmail.com"
                             style="text-decoration: none; color: inherit;">awaazofdevbhoomi@gmail.com</a>
                     </p>
-                    <p><i class="fas fa-map-marker-alt"></i> Awaaz of Devbhoomi Charitable Trust, Dehradun, Uttarakhand,
+                    <p><i class="fas fa-map-marker-alt"></i> Awaaz of Devbhoomi Charitable Trust(Reg.), Dehradun, Uttarakhand,
                         India</p>
 
 

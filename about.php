@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About Us - Awaaz of Devbhoomi Charitable Trust</title>
+    <title>About Us - Awaaz of Devbhoomi Charitable Trust(Reg.)</title>
     
     <!-- Bootstrap CSS -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
@@ -14,7 +14,7 @@
 
     <style>
         body {
-            background-color: rgb(161, 201, 201);
+            background: radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%);
         }
         .section-title {
             font-size: 2rem;
@@ -40,7 +40,7 @@
         <i class="fas fa-hand-holding-heart icon"></i> About the Trust
     </h2>
     <p class="text-center">
-        Awaaz of Devbhoomi Charitable Trust is dedicated to providing support to the underprivileged communities in Uttarakhand, fostering educational opportunities, healthcare access, and sustainable livelihoods. Our mission is to uplift and empower people through various initiatives driven by a strong sense of social responsibility.
+        Awaaz of Devbhoomi Charitable Trust(Reg.) is dedicated to providing support to the underprivileged communities in Uttarakhand, fostering educational opportunities, healthcare access, and sustainable livelihoods. Our mission is to uplift and empower people through various initiatives driven by a strong sense of social responsibility.
     </p>
 </div>
 
@@ -77,9 +77,9 @@
     </h2>
     <blockquote class="blockquote text-center">
         <p class="mb-4">
-            "At Awaaz of Devbhoomi Charitable Trust, we believe that together we can create a brighter future. Our goal is to empower the most vulnerable members of society, providing them with the tools they need to thrive. By focusing on education, health, and sustainable development, we are committed to making a lasting impact."
+            "At Awaaz of Devbhoomi Charitable Trust(Reg.), we believe that together we can create a brighter future. Our goal is to empower the most vulnerable members of society, providing them with the tools they need to thrive. By focusing on education, health, and sustainable development, we are committed to making a lasting impact."
         </p>
-        <footer class="blockquote-footer">Founder of Awaaz of Devbhoomi Charitable Trust</footer>
+        <footer class="blockquote-footer">Founder of Awaaz of Devbhoomi Charitable Trust(Reg.)</footer>
     </blockquote>
 </div>
 

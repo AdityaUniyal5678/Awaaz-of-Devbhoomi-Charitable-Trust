@@ -7,14 +7,14 @@ require_once "./pdo.php";
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Awaaz of Devbhoomi Charitable Trust</title>
+    <title> Awaaz of Devbhoomi</title>
 
     <?php include "bootstrap.php";?>
     <link rel="stylesheet" href="bootstrap/css/style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <style>
         body {
-            background-color: rgb(161, 201, 201);
+            background : radial-gradient(circle, rgba(34,193,195,0.9725140056022409) 42%, rgba(253,187,45,1) 98%);;
         }
 
         .contact-info i {
@@ -114,13 +114,13 @@ for ($i = 0; $i < min($displayLimit, $imageCount); $i++) {
             <h4>Get in Touch</h4>
             <p>
                 <i class="fas fa-phone"></i>
-                <a href="tel:+919368080321" style="text-decoration: none; color: inherit;">+91-9368080321</a>
+                <a href="tel:+919368080321" style="text-decoration: none; color: inherit;">+91-9368080321 , +91-8630794658</a>
             </p>
             <p>
                 <i class="fas fa-envelope"></i>
                 <a href="mailto:awaazofdevbhoomi@gmail.com" style="text-decoration: none; color: inherit;">awaazofdevbhoomi@gmail.com</a>
             </p>
-            <p><i class="fas fa-map-marker-alt"></i> Awaaz of Devbhoomi Charitable Trust, Dehradun, Uttarakhand, India</p>
+            <p><i class="fas fa-map-marker-alt"></i> Awaaz of Devbhoomi Charitable Trust(Reg.), Dehradun, Uttarakhand, India</p>
 
             <!-- Google Maps -->
             <h5 class="mt-4">Find Us</h5>
