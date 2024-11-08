@@ -18,19 +18,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
             $mail->isSMTP();
             $mail->Host       = 'smtp.gmail.com';
             $mail->SMTPAuth   = true;
-            $mail->Username   = 'deepaksuyal310@gmail.com';
-            $mail->Password   = 'uglg tgsc oqly ygza';
+            $mail->Username   = 'awaazofdevbhoomi@gmail.com';
+            $mail->Password   = 'vqtz jzie tyax nanh';
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port       = 587;
 
             //Recipients
-            $mail->setFrom('deepaksuyal310@gmail.com', 'Deepak Suyal');
+            $mail->setFrom('awaazofdevbhoomi@gmail.com', 'AWAAZ');
             $mail->addAddress($email);                                // Add a recipient
 
             // Content
             $mail->isHTML(true);                                      // Set email format to HTML
             $mail->Subject = 'New Contact Form Submission';
-            $mail->Body    = "Name: $name<br>Email: $email<br><br>Message:<br>$message";
+            $mail->Body    = "Name: $name<br>Email: $email<br><br>Message:<br>'YOUR MESSAGE IS RECORDED , THANKS FOR FEEDBACK .' YOUR MESSAGE WAS:$message";
 
             $mail->send();
             header("Location: thankYou.php");
